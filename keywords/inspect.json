@@ -1,0 +1,14 @@
+{
+    "languages": [
+        {
+            "name": "python",
+            "extensions" : [
+                "py"
+            ],
+            "keywords" : []
+        }
+    ],
+    "keywords": [
+        "(?:^|[;'\\(\\{,=\\s])[ \\t]*\\binspect\\.currentframe\\(\\)"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "languages": [
+        {
+            "name": "python",
+            "extensions" : [
+                "py"
+            ],
+            "keywords" : []
+        }
+    ],
+    "keywords": [
+        "(?m)(?:^|;)[ \\t]*(from[ ]+(\\S+)[ ]+)import[ ]+([^\\r\\n\\t\\f\\v ;])*"
+    ]
+}
