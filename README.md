@@ -18,4 +18,4 @@ This will generate figures in their own directory. Running this may also create 
 
 
 ## Feedback
-If you find any room for improvements or clarifications in this README then simply create an issue. Any feedback is helpful since it benefits everyone 
+If you find any room for improvements or clarifications in this README then simply create an issue. Any feedback is helpful since it benefits everyone.
